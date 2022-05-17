@@ -29,12 +29,12 @@
 
 Directory | Description
 ----------|-------------------------------------------
-[**Jupyter**](https://github.com/engcristian/Python/tree/main/Jupyter)    | Notebooks with importants annotations. 
-[**My-Chatbot**](https://github.com/engcristian/Python/tree/main/My-ChatBot)     | Dante is a chatbot created to have a nice talk.
-[**Python-codes-CeV**](https://github.com/engcristian/Python/tree/main/Python-codes-CeV)  | Huge list of interesting codes in Python.
-[**Python-codes-DIO**](https://github.com/engcristian/Python/tree/main/Python-codes-DIO)    | Python classes, functions, lambda and error treatment .
-[**Python-projects-FCC**](https://github.com/engcristian/Python/tree/main/Python-projects-FCC)    | Four projects created at FreeCodeCamp.
-[**Python-codes-kaggle**](https://github.com/engcristian/Python/tree/main/python-codes-kaggle)    | Python annotations for Kaggle's notebook.
+[**Jupyter**](https://github.com/cristian-santiago/Python/tree/main/Jupyter)    | Notebooks with importants annotations. 
+[**My-Chatbot**](https://github.com/cristian-santiago/Python/tree/main/My-ChatBot)     | Dante is a chatbot created to have a nice talk.
+[**Python-codes-CeV**](https://github.com/cristian-santiago/Python/tree/main/Python-codes-CeV)  | Huge list of interesting codes in Python.
+[**Python-codes-DIO**](https://github.com/cristian-santiago/Python/tree/main/Python-codes-DIO)    | Python classes, functions, lambda and error treatment .
+[**Python-projects-FCC**](https://github.com/cristian-santiago/Python/tree/main/Python-projects-FCC)    | Four projects created at FreeCodeCamp.
+[**Python-codes-kaggle**](https://github.com/cristian-santiago/Python/tree/main/python-codes-kaggle)    | Python annotations for Kaggle's notebook.
 
 
 <h2>
@@ -66,4 +66,4 @@ Directory | Description
 
 Copyright (C) 2020-2021 by **Cristian Santiago** 
 ___
-![Visits Badge](https://badges.pufler.dev/visits/engcristian/Python)
+![Visits Badge](https://badges.pufler.dev/visits/cristian-santiago/Python)
